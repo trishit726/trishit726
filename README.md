@@ -34,6 +34,20 @@ I'm a passionate developer focused on **Artificial Intelligence**, **Robotics**,
 
 ---
 
+### 🚀 Featured Projects
+
+#### 👁️ Sentinel: AI-Powered Accident Detection System
+> *Transforming passive surveillance into active, life-saving intervention.*
+
+This project is a sophisticated **Agentic AI System** designed to bridge the critical time gap in emergency response. By integrating **NVIDIA Cosmos VLM** (Vision Language Model) with **YOLO** for real-time object detection, the system continuously monitors CCTV feeds to identify traffic accidents with high precision.
+
+Once an incident is detected, the **Brain** (powered by **Cerebras AI**) analyzes the severity and orchestrates a response. Using **LangGraph** for agent coordination and the **Zynd SDK** for secure communication, it autonomously contacts the nearest hospitals and dispatches ambulances. This end-to-end automation removes human latency, ensuring help arrives when it matters most.
+
+*   **Tech Stack**: NVIDIA NIM, Cerebras Inference, LangGraph, Zynd Network, Docker, Python.
+*   **Key Feature**: Autonomous Multi-Agent Dispatch & Real-time Vision Analysis.
+
+---
+
 ### <img src="https://media.giphy.com/media/iT0f7f45bZozw1d8qO/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
