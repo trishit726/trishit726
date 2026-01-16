@@ -64,11 +64,12 @@ Once an incident is detected, the **Brain** (powered by **Cerebras AI**) analyze
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=trishit726&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishit726&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trishit726&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trishit726&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=trishit726&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <!-- Streak stats service is currently down -->
+  <!-- <img src="https://streak-stats.demolab.com?user=trishit726&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" /> -->
 
 </div>
